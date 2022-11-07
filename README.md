@@ -1,4 +1,4 @@
-StarWars characters frontend website built wih React.JS. with utilizing the data of each character from an open-source AP.
+# StarWars characters frontend website built wih React.JS. with utilizing the data of each character from an open-source AP.
 
 
 
