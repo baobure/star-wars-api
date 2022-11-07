@@ -1,3 +1,8 @@
+StarWars characters frontend website built wih React.JS. with utilizing the data of each character from an open-source AP.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
